@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<?php error_reporting(0);
+		$this->load->helper('url'); ?>
+		<title><?php echo $title ?> - Punto Libre"</title>
+		<meta name="author" content="Anna Lezama" />
+		<meta name="keywords" content="Punto Libre" />
+		<meta name="description" content="Punto Libre" />
+		<meta name="classification" content="Punto Libre" />
+		<meta name="distribution" content="global" />
+		<meta name="robots" content="index, follow" />
+		<meta name="revisit-after" content="1 month" />
+		<link rel="shortcut icon" href="<?php echo base_url('application/views/templates/images/icono.png')?>" />
+		<link rel="stylesheet" type="text/css" media="all" href="<?php echo base_url('application/views/templates/style.css') ?>" />
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div id="logo">
+					<h1><img src="<?php echo base_url('application/views/templates/images/punto.png')?>" /></h1>
+					<p>Punto Libre</p>
+				</div>
+			</div>
+			<!-- end #header -->
+			<div id="menu">
+				<ul>
+				</ul>
+			</div>
+	<!-- end #menu -->
+<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+			<div class="post">
+			<div class="post-bgtop">
+			<div class="post-bgbtm">
+				<h1 class="title"><a href="#">Welcome to Exploitable  </a></h1>
+				<p class="meta">Posted by <a href="#">Someone</a> on March 10, 2008
+					&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
+				<div class="entry">
+					<p>This is <strong>Exploitable </strong>, a free, fully standards-compliant CSS template designed by <a href="http://www.freecsstemplates.org">FCT</a>.  This free template is released under a <a href="http://creativecommons.org/licenses/by/2.5/">Creative Commons Attributions 2.5</a> license, so you’re pretty much free to do whatever you want with it (even use it commercially) provided you keep the links in the footer intact. Aside from that, have fun with it :)</p>
+					<p>Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum ipsum. Proin imperdiet est. Phasellus dapibus semper urna. Pellentesque ornare, orci in felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem.</p>
+				</div>
+			</div>
+			</div>
+			</div>
+			
+
+
