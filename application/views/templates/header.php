@@ -27,7 +27,13 @@
 				</ul>
 			</div>
 	<!-- end #menu -->
-
+	<div id="page">
+		<div id="page-bgtop">
+		<div id="page-bgbtm">
+			<div id="content">
+				<div class="post">
+				<div class="post-bgtop">
+				<div class="post-bgbtm">
 			
 
 
